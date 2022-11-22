@@ -128,7 +128,7 @@ else:
         else:
             print('Best odds for ' + home_team + ': ' + str(home_team_best_odds) + ' at ' + home_team_best_odds_bookmaker_list[0])
             print('Best odds for ' + away_team + ': ' + str(away_team_best_odds) + ' at ' + away_team_best_odds_bookmaker_list[0])            
-        print(bookmaker_odds)
+        #print(bookmaker_odds)
         print('')
 
     # Check the usage quota
